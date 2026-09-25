@@ -93,6 +93,8 @@ Source: `BOM.csv`
 |item         |Qantity|price|link to buy                                     |
 |-------------|-------|-----|------------------------------------------------|
 |Pla+ filament| 300gram| 3$   |https://india.numakers.com/products/pla-filament|
+|SK120X DC Buck Boost Converter| 1| 15$   |https://www.aliexpress.com/item/1005009218897300.html|
+|Total        |  |  18$   |  |
 
 
 ## Production
